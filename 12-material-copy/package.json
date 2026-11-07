@@ -1,0 +1,17 @@
+{
+  "name": "12-material-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.186.1",
+    "vite": "^4.5.14"
+  }
+}
